@@ -1,7 +1,7 @@
-# alfred-get-rundom-image
+# alfred-get-random-image
 
 # Usage
-Get rundom image from https://picsum.photos  
+Get random image from https://picsum.photos  
 Write `lp` and resolution and you can download the photo from the defalt browser.
 
 ![preview1](./media/preview1.png)
