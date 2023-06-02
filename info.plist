@@ -74,11 +74,11 @@
 	<key>createdby</key>
 	<string>Nikita Meshchaninov</string>
 	<key>description</key>
-	<string></string>
+	<string>Download random image from https://picsum.photos</string>
 	<key>disabled</key>
 	<true/>
 	<key>name</key>
-	<string>Get rundom image</string>
+	<string>Get random image</string>
 	<key>objects</key>
 	<array>
 		<dict>
