@@ -133,7 +133,7 @@
 				<key>subtext</key>
 				<string>Enter size of image like "200", "200x300", "200 300"</string>
 				<key>text</key>
-				<string>Get rundom image from https://picsum.photos</string>
+				<string>Get random image from https://picsum.photos</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -215,7 +215,7 @@
 	</array>
 	<key>readme</key>
 	<string># Usage
-Get rundom image from https://picsum.photos  
+Get random image from https://picsum.photos  
 Write `lp` and resolution and you can download the photo from the defalt browser.
 
 ![preview1](./media/preview1.png)
